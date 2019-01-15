@@ -1,0 +1,32 @@
+E:\Clue-Box Work\V.Studio\YYBiscuit\YYBiscuit\bin\Debug\YYBiscuit.exe.config
+E:\Clue-Box Work\V.Studio\YYBiscuit\YYBiscuit\bin\Debug\YYBiscuit.exe
+E:\Clue-Box Work\V.Studio\YYBiscuit\YYBiscuit\bin\Debug\YYBiscuit.pdb
+E:\Clue-Box Work\V.Studio\YYBiscuit\YYBiscuit\bin\Debug\SpssLib.dll
+E:\Clue-Box Work\V.Studio\YYBiscuit\YYBiscuit\bin\Debug\SpssLib.xml
+E:\Clue-Box Work\V.Studio\YYBiscuit\YYBiscuit\obj\Debug\YYBiscuit.csprojResolveAssemblyReference.cache
+E:\Clue-Box Work\V.Studio\YYBiscuit\YYBiscuit\obj\Debug\YYBiscuit.exe
+E:\Clue-Box Work\V.Studio\YYBiscuit\YYBiscuit\obj\Debug\YYBiscuit.pdb
+E:\Clue-Box Work\V.Studio\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\YYBiscuit.exe.config
+E:\Clue-Box Work\V.Studio\YY-Parsing ALL\YYBiscuit\YYBiscuit\obj\Debug\YYBiscuit.exe
+E:\Clue-Box Work\V.Studio\YY-Parsing ALL\YYBiscuit\YYBiscuit\obj\Debug\YYBiscuit.pdb
+E:\Clue-Box Work\V.Studio\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\YYBiscuit.exe
+E:\Clue-Box Work\V.Studio\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\YYBiscuit.pdb
+E:\Clue-Box Work\V.Studio\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\SpssLib.dll
+E:\Clue-Box Work\V.Studio\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\SpssLib.xml
+E:\Clue-Box Work\V.Studio\YY-Parsing ALL\YYBiscuit\YYBiscuit\obj\Debug\YYBiscuit.csprojResolveAssemblyReference.cache
+E:\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\YYBiscuit.exe.config
+E:\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\obj\Debug\YYBiscuit.exe
+E:\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\obj\Debug\YYBiscuit.pdb
+E:\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\YYBiscuit.exe
+E:\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\YYBiscuit.pdb
+E:\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\SpssLib.dll
+E:\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\SpssLib.xml
+E:\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\obj\Debug\YYBiscuit.csprojResolveAssemblyReference.cache
+E:\E\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\YYBiscuit.exe.config
+E:\E\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\obj\Debug\YYBiscuit.exe
+E:\E\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\obj\Debug\YYBiscuit.pdb
+E:\E\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\YYBiscuit.exe
+E:\E\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\YYBiscuit.pdb
+E:\E\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\SpssLib.dll
+E:\E\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\bin\Debug\SpssLib.xml
+E:\E\Projects-Mayora\YY-Parsing ALL\YYBiscuit\YYBiscuit\obj\Debug\YYBiscuit.csprojResolveAssemblyReference.cache
