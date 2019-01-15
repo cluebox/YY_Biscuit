@@ -40,7 +40,7 @@ namespace YYBiscuit
                                 string VARIABLE_VALUE = label.Value;
                                 string VARIABLE_NAME_QUESTION = variable.Label;
                                 string BASE_VARIABLE_NAME = variable.Name;
-                              //iobj.insert_Dashboard_variable_values(VARIABLE_NAME, VARIABLE_NAME_SUB_NAME, VARIABLE_ID, VARIABLE_VALUE, VARIABLE_NAME_QUESTION, SurveyID, Country, BASE_VARIABLE_NAME, SurveyPeriod);
+                                iobj.insert_Dashboard_variable_values(VARIABLE_NAME, VARIABLE_NAME_SUB_NAME, VARIABLE_ID, VARIABLE_VALUE, VARIABLE_NAME_QUESTION, SurveyID, Country, BASE_VARIABLE_NAME, SurveyPeriod);
                             }
                         }
                     }
